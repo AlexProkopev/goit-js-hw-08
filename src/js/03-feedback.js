@@ -33,4 +33,5 @@ formRef.addEventListener('input',throttle(submitForm, 500));
 window.addEventListener('load', checkLocal);
 formRef.addEventListener('submit', getValueInput);
 
-
+const sales = 123213
+console.log(sales);
